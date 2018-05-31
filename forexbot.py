@@ -74,4 +74,4 @@ async def on_message(message):
 	if message.content == "!exit" and message.author.id == '273608800823672833':
 		await client.close()
 
-client.run("NDUxMTAzMTA0NDc4MjE2MTkz.De87fg.53FjeaISsOy1sEUS_oKTmGQZ4tk")
+client.run("")
